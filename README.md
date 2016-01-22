@@ -7,7 +7,7 @@ It means:
 1. wanting to know *how* and *why* computers work
 
 2. being efficient / never repeating yourself
-
+poopy
 3. using and contributing to open source software
 
 4. understanding the edge cases of your software
@@ -49,16 +49,16 @@ position | name | office hours (WCH 110)
 --- | --- | ---
 lecturer | Mike Izbicki | Tuesdays, 12:40-2PM
 teaching assistant | Busra Celikkaya | Fridays, 12:30-2:30PM
-
+slim slam
 **IMPORTANT:**
 If you want to contact the instructors about the course, you should report an issue via github.
 We will talk about how to do this in class.
 This is a system similar to the piazza system you may already be familiar with,
 but it is more popular for open source software development.
-
+poop
 ### course schedules
 
-Our lectures will roughly follow this schedule.
+Our lectures will follow this schedule.
 You should do the required readings before class.
 I will occasionally have unscheduled quizzes to ensure you are doing the reading.
 
