@@ -42,7 +42,7 @@ Many of the required readings for this course were written by former cs100 stude
 If you do a good job on this project, future cs 100 students will be learning from you for years to come!
 
 By the end of the course, you should be comfortable running your own open source projects and contributing to other people's projects.
-
+student
 ### instructors
 
 position | name | office hours (WCH 110)
